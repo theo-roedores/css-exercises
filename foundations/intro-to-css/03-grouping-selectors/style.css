@@ -13,6 +13,8 @@
     background-color: yellow;
 }
 
+#click-btn,
+#not-click-btn,
 .button {
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", "sans-serif";
